@@ -1,0 +1,22 @@
+h1{
+    color: rgb(66, 62, 50);
+    
+}
+body{
+    background-color:lightgoldenrodyellow;
+
+}
+h2{
+    color:darkslategrey;
+}
+img{
+    width: 400px;
+    border:2px dashed brown;
+    margin-right: 500px;
+    margin-left: 900px;
+    display: block;
+    float:right;
+}
+h4 {
+    color:green;
+}
